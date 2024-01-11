@@ -1,0 +1,14 @@
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\bin\Debug\net8.0\HelloCS.exe
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\bin\Debug\net8.0\HelloCS.dll
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.dll
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+C:\Users\OTUONYEADIKE Chisom\Desktop\csharp\IntroToCSharp\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
